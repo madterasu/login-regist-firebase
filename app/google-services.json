@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014934126073",
+    "project_id": "capstone-project-407405",
+    "storage_bucket": "capstone-project-407405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014934126073:android:da1721ecb38677c9d3d128",
+        "android_client_info": {
+          "package_name": "com.example.loginregsiterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-D0ptmYAc21VzaNKVXMWRXue86erRys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
